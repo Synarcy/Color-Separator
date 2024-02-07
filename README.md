@@ -1,6 +1,7 @@
 - Go into CMD and run as admin
-- paste this into there "pip install opencv-python numpy scikit-learn"
-- Run the code in vs code, idle, whatever 
+- paste this into there "pip install opencv-python numpy scikit-learn customtkinter"
+- Open the python file
 - select image
+- select how many colours are in the image
 - select path to store images 
 - boom
